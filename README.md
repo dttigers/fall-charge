@@ -1,7 +1,14 @@
-#fall-charge
+# Horiseon
 
-Edited client's html to help it better follow accessibility standards.
-Consolidated client's css to prevent un-needed dublications.
+## Purpose
+A website that offers S.E.O services.
 
-##Finished Product
-[Horiseon](https://dttigers.github.io/fall-charge/)
+## Built With
+* HTML
+* CSS
+
+## Website
+https://dttigers.github.io/fall-charge/
+
+## Contribution
+Made with ❤️ by Jameson Morrill
